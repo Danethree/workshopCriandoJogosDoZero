@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.workshop_project.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Users\danid\MeusProjetos\workshop_project\.idea\.idea.workshop_project\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

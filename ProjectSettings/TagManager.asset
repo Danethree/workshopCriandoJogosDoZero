@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Espinho
+  - goal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Obstacles
+  - Player
+  - Spine
+  - DEADEND
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackgroundSky
+    uniqueID: 399430685
+    locked: 0
+  - name: Background02
+    uniqueID: 1164522403
+    locked: 0
+  - name: background3
+    uniqueID: 209955083
+    locked: 0
+  - name: Background01
+    uniqueID: 810733057
+    locked: 0
+  - name: environment
+    uniqueID: 706444943
+    locked: 0
+  - name: Ground
+    uniqueID: 925408831
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
